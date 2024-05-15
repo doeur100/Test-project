@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <!-- <div>
 <div class="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <a href="#">
         <img class="p-8 rounded-t-lg" src="https://static01.nyt.com/images/2018/05/23/dining/23fruit/23fruit-superJumbo.jpg" alt="product image" />
@@ -35,6 +35,10 @@
     </div>
 </div>
     </div>
+     -->
+<h1>hello</h1>
+     <Button type="button" icon="pi pi-ellipsis-v" @click="toggle" aria-haspopup="true" aria-controls="overlay_menu" />
+     <Menu ref="menu" id="overlay_menu" :model="items" :popup="true" />
 </template>
 
 <script setup>
