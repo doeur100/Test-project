@@ -1,6 +1,6 @@
 <template>
-  <div class="fixed h-screen w-screen flex justify-center bg-gray-300">
-    <form action=""class="mt-28">
+  <div class="fixed h-screen w-screen flex justify-center items-center bg-gray-300">
+    <form action="">
         <div class="flex">
             <div class="bg-white p-[30px] pb-[8rem] pt-[3rem] shadow-md">
                 <h2 class="text-center text-[2.1rem] font-bold select-none">Admin</h2>

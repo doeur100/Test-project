@@ -7,13 +7,13 @@
         </div>
         <div>
           <div>
-            <input type="text" placeholder="  First name" />
+            <input type="text" placeholder=" First name" />
           </div>
           <div>
-            <input type="text" placeholder="  Last name" />
+            <input type="text" placeholder=" Last name" />
           </div>
           <div>
-            <input type="number" placeholder="  Phone number" />
+            <input type="number" placeholder=" Phone number" />
           </div>
           <div>
               <button class="bg-blue-700 text-white border border-white select-none">Submit</button>
