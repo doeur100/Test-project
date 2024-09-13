@@ -33,6 +33,5 @@
   img {
     height:13rem;
   }
-  
   </style>
   

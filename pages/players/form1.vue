@@ -54,7 +54,7 @@ input[type = "text"],input[type = "number"],button {
       firstNameMes.value = '';
       borderFirstName.value = '';
     }
-   if (lastName.value === '') {
+    if (lastName.value === '') {
       lastNameMes.value = 'Last name required';
       borderLastName.value = '2px solid red';
     }else {
@@ -63,12 +63,11 @@ input[type = "text"],input[type = "number"],button {
     }
     if (phoneNumber.value === '') {
       phoneNumberMes.value = 'Phone number required';
-      borderPhoneNum.value = '2px solid red'
+      borderPhoneNum.value = '2px solid red';
 
     }else {
       phoneNumberMes.value = '';
       borderPhoneNum.value = ''
     }
   }
-
 </script>
